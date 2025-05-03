@@ -1,0 +1,1 @@
+This is a front-end clone of the Spotify web player, developed using HTML, CSS, and JavaScript. It mimics the core user interface of Spotify, featuring a responsive layout, music player controls, and dynamic song selection. The project focuses on replicating the visual and interactive aspects of the platform without using any backend or API integration.
